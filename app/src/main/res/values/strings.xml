@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Password Management</string>
+
+    <string name="rationale_access_external_storage">Per i Backup locali servono i permessi di accesso alla memoria esterna</string>
+    <string name="app_folder">data</string>
+    <string name="backup_folder">backup</string>
+
+    <!-- Activity Principale -->
+    <string name="nuova">Nuova</string>
+    <string name="list">Lista</string>
+    <string name="random">Creazione Casuale</string>
+    <string name="setting">Impostazioni</string>
+
+    <!-- Stringhe Activity Add Password-->
+    <string name="new_site_name">Nome Sito</string>
+    <string name="new_site">URL Sito</string>
+    <string name="new_username">Username</string>
+    <string name="new_password">Password</string>
+    <string name="new_random_password">Genera</string>
+    <string name="new_email">Email Registrata</string>
+    <string name="new_note">Note</string>
+    <string name="new_abort">Cancella</string>
+    <string name="new_save">Salva</string>
+    <string name="go_to">Go to</string>
+
+    <!-- Activity List Password -->
+    <string name="search_hint">Inserisci il sito da ricercare</string>
+    <string name="button_search">Ricerca</string>
+    <string name="details">Dettagli</string>
+
+</resources>
